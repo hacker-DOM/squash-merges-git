@@ -3,3 +3,4 @@ Showing the difference in git's ability to compute diffs between squash merges a
 main3 1
 feat3.1 1
 feat3.1 2
+feat3.2 1
